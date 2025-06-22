@@ -29,9 +29,9 @@ Below you can find the result of rendering after 10000 iterations:
   <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/000.png?raw=true" width="45%" alt="Model Output"/>
 </p>
 <p align="center">
-   To see the implementation of our algorithm please see  "run_simple_nerf_student" python code in this repository.
   <b>Left:</b> Ground Truth &nbsp;&nbsp;&nbsp;&nbsp; <b>Right:</b> Model Output after 10,000 iterations
 </p>
+To see the implementation of our algorithm please see  "run_simple_nerf_student" python code in this repository.
 
 
 
