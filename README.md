@@ -32,6 +32,9 @@ Below you can find the result of rendering after 10000 iterations:
   <b>Left:</b> Ground Truth &nbsp;&nbsp;&nbsp;&nbsp; <b>Right:</b> Model Output after 10,000 iterations
 </p>
 
+Rendered Images from different poses:
+
+
 To see the implementation of our algorithm please see  "run_simple_nerf_student" python code in this repository.
 
 
