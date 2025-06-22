@@ -25,7 +25,7 @@ To enforce smoothness in the 3D field:
 This helps prevent artifacts and encourages spatial consistency in the reconstructed scene.
 Below you can find the result of rendering after 10000 iterations:
 <p align="center">
-  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/ground_truth.png?raw=true" width="45%" alt="Ground Truth"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/r_0.png?raw=true" width="45%" alt="Ground Truth"/>
   <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/000.png?raw=true" width="45%" alt="Model Output"/>
 </p>
 <p align="center">
