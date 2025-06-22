@@ -28,5 +28,9 @@ Below you can find the result of rendering after 10000 iterations:
 <p align="center">
   <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/000.png?raw=true" width="60%">
 </p>
+<h3 align="center">Ground Truth</h3>
+<p align="center">
+  <img src="[https://github.com/Bazgh/3D-Reconstruction/blob/main/000.png](https://github.com/Bazgh/3D-Reconstruction/blob/main/r_0.png)?raw=true" width="60%">
+</p>
 
-![Ground Truth](https://github.com/Bazgh/3D-Reconstruction/blob/main/r_0.png)
+
