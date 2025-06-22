@@ -33,6 +33,14 @@ Below you can find the result of rendering after 10000 iterations:
 </p>
 
 Rendered Images from different poses:
+<p align="center">
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/000.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/008.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/0016.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/024.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/032.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/040.png" width="200"/>
+</p>
 
 
 To see the implementation of our algorithm please see  "run_simple_nerf_student" python code in this repository.
