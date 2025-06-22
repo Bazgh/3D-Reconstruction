@@ -40,6 +40,10 @@ Rendered Images from different poses:
   <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/024.png" width="200"/>
   <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/032.png" width="200"/>
   <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/040.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/048.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/056.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/064.png" width="200"/>
+  <img src="https://github.com/Bazgh/3D-Reconstruction/blob/main/072.png" width="200"/>
 </p>
 
 
