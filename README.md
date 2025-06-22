@@ -31,6 +31,7 @@ Below you can find the result of rendering after 10000 iterations:
 <p align="center">
   <b>Left:</b> Ground Truth &nbsp;&nbsp;&nbsp;&nbsp; <b>Right:</b> Model Output after 10,000 iterations
 </p>
+
 To see the implementation of our algorithm please see  "run_simple_nerf_student" python code in this repository.
 
 
